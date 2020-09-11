@@ -1,0 +1,19 @@
+body
+{
+    background-color: rgb(241, 234, 219);
+}
+h1
+{
+    background-color: rgb(153, 150, 150);
+    text-align: center;
+}
+
+p
+{
+color: black;
+text-align: justify;
+}
+.image
+{
+    text-align: center;
+}
